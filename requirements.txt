@@ -1,0 +1,12 @@
+
+streamlit
+openai
+faiss-cpu
+python-dotenv
+openai
+faiss-cpu
+numpy
+youtube-transcript-api
+google-api-python-client
+chromadb
+sentence-transformers

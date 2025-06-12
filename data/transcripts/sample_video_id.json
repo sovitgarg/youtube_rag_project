@@ -1,0 +1,12 @@
+[
+  {
+    "start": 60,
+    "end": 75,
+    "text": "This is a sample explanation about AI agents."
+  },
+  {
+    "start": 120,
+    "end": 135,
+    "text": "This segment explains vector databases and their role."
+  }
+]

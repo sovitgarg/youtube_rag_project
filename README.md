@@ -100,4 +100,4 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Made by [Your Name] – feel free to reach out or fork and modify!
+Made by Sovit Garg – feel free to reach out or fork and modify!

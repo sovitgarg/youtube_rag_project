@@ -1,10 +1,9 @@
 # 🎬 youtube_rag_project
 
 Search your own YouTube channel using natural language.  
-This project implements a Retrieval-Augmented Generation (RAG) system to let you query your videos using OpenAI GPT and return precise, timestamped video responses.
-
+This project prototypes a basic Retrieval-Augmented Generation (RAG) system to let you query your videos using OpenAI GPT and return precise, timestamped video responses.
+Note: There is a place holder for OpenAI calls, not hooked up with RAG yet. Feel free to hook it up.
 It’s like semantic search for your personal video archive.
-There is place holder for OpenAI calls, not hooked up with RAG yet.
 
 ---
 

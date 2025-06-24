@@ -4,6 +4,7 @@ Search your own YouTube channel using natural language.
 This project implements a Retrieval-Augmented Generation (RAG) system to let you query your videos using OpenAI GPT and return precise, timestamped video responses.
 
 It’s like semantic search for your personal video archive.
+There is place holder for OpenAI calls, not hooked up with RAG yet.
 
 ---
 
@@ -71,7 +72,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 - "When did I talk about product roadmap?"
 - "Which videos discuss deprecating our tools?"
-- "Show the video where I said 'hub and lab'"
+- "Show the video where I said 'coding will be dead in 5 years'"
 
 ---
 
